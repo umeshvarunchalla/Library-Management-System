@@ -1,0 +1,11 @@
+B1,Book1,author1,publisher1,2006,9999999999999,borrowed,S7
+B2,Book2,author2,publisher2,2006,9999999999999,borrowed,S3
+B3,Book3,author3,publisher3,2006,9999999999999,borrowed,F2
+B4,Book4,author4,publisher4,2006,9999999999999,borrowed,NULL
+B5,Book5,author5,publisher5,2006,9999999999999,borrowed,S1
+B6,Book6,author6,publisher6,2006,9999999999999,available,NULL
+B7,Book7,author7,publisher7,2006,9999999999999,borrowed,NULL
+B8,Book8,author8,publisher8,2006,9999999999999,borrowed,NULL
+B9,Book9,author9,publisher9,2006,9999999999999,available,NULL
+B10,Book10,author10,publisher10,2006,9999999999999,available,NULL
+B11,Book11,author11,publisher11,2006,9999999999999,available,NULL
